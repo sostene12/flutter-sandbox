@@ -1,4 +1,4 @@
-# first_app
+# flutter_sandbox
 
 A new Flutter project.
 
